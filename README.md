@@ -1,0 +1,2 @@
+# hackerrank-solution
+Hackerrank solution
